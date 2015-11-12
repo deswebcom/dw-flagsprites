@@ -1,0 +1,31 @@
+{
+  "name": "dw-flagsprites",
+  "version": "0.0.1",
+  "authors": [
+    "Miguel Angel Alvarez <malvarez@desarrolloweb.com>"
+  ],
+  "description": "Country flags Custom Element, using Polymer. The falgs come from a unique PNG image that we use with CSS sprites",
+  "main": "dw-flagsprites.html",
+  "moduleType": [],
+  "keywords": [
+    "country",
+    "flags",
+    "sprites",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.desarrolloweb.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".gitignore",
+    "css-sprites-im-using",
+    "css"
+  ],
+  "dependencies": {
+    "polymer": "~1.2.1"
+  }
+}
