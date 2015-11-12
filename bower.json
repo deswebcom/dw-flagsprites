@@ -11,7 +11,9 @@
     "country",
     "flags",
     "sprites",
-    "css"
+    "css",
+    "web-components",
+    "polymer"
   ],
   "license": "MIT",
   "homepage": "http://www.desarrolloweb.com",
